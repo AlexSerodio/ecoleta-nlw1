@@ -1,6 +1,9 @@
-# ecoleta
+# Ecoleta - NLW #1
+A web and mobile application to register waste collection points developed using **Node**, **React**, **React-Native** and **TypeScript** during the **Next Level Week #1 (NLW #1)** course from [Rocketseat](https://rocketseat.com.br/).
 
-## server
+
+## Running the applications
+### server
 
 Run project:
 ```
